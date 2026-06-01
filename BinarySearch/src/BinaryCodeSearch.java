@@ -8,10 +8,10 @@ public class BinaryCodeSearch {
 
         int start = 0;
         int end = arr.length - 1;
-        int result = 0;
+
 
         while(start <= end ) {
-            int mid = (start + end ) / 2;
+            int mid = start + (end - start ) / 2;
             if (target == arr[mid]) {
                return mid;
             } else if (target < arr[mid]) {
