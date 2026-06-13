@@ -25,9 +25,9 @@ public class SelectionSort {
         }
         return max;
     }
-    static void swap(int [] arr , int maxIndex , int last ){
-        int temp = arr[maxIndex];
-        arr[maxIndex] = arr[last];
+    static void swap(int [] arr , int first , int last ){
+        int temp = arr[first];
+        arr[first] = arr[last];
         arr[last] = temp;
     }
 }
