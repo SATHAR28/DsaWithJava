@@ -10,7 +10,7 @@ public class fibinocciseriesz {
         System.out.print(first+" "+second+" ");
 
         int temp =0;
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i <= n; i++) {
 
 
             int next = first + second;
