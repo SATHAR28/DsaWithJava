@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/SATHAR28/DsaWithJava/tree/master/0283-move-zeroes) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SATHAR28/DsaWithJava/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SATHAR28/DsaWithJava/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SATHAR28/DsaWithJava/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/SATHAR28/DsaWithJava/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SATHAR28/DsaWithJava/tree/master/0344-reverse-string) |
 ## String
 |  |
