@@ -1,7 +1,7 @@
 public class EvenOdd {
     public static void main(String[] args) {
 
-        boolean ans = isEven(33);
+        boolean ans = isEven(30);
         System.out.println(ans);
 
     }
