@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SATHAR28/DsaWithJava/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SATHAR28/DsaWithJava/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/SATHAR28/DsaWithJava/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SATHAR28/DsaWithJava/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/SATHAR28/DsaWithJava/tree/master/0832-flipping-an-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/SATHAR28/DsaWithJava/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
