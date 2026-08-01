@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SATHAR28/DsaWithJava/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SATHAR28/DsaWithJava/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/SATHAR28/DsaWithJava/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHAR28/DsaWithJava/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SATHAR28/DsaWithJava/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/SATHAR28/DsaWithJava/tree/master/1732-find-the-highest-altitude) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SATHAR28/DsaWithJava/tree/master/0035-search-insert-position) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHAR28/DsaWithJava/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/SATHAR28/DsaWithJava/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHAR28/DsaWithJava/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
