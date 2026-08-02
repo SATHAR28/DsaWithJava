@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SATHAR28/DsaWithJava/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/SATHAR28/DsaWithJava/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/SATHAR28/DsaWithJava/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SATHAR28/DsaWithJava/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/SATHAR28/DsaWithJava/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHAR28/DsaWithJava/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SATHAR28/DsaWithJava/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/SATHAR28/DsaWithJava/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SATHAR28/DsaWithJava/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/SATHAR28/DsaWithJava/tree/master/0832-flipping-an-image) |
 ## String
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SATHAR28/DsaWithJava/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHAR28/DsaWithJava/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -63,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/SATHAR28/DsaWithJava/tree/master/1732-find-the-highest-altitude) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
