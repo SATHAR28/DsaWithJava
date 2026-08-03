@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SATHAR28/DsaWithJava/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/SATHAR28/DsaWithJava/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SATHAR28/DsaWithJava/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SATHAR28/DsaWithJava/tree/master/0485-max-consecutive-ones) |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
@@ -70,5 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
