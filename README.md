@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SATHAR28/DsaWithJava/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHAR28/DsaWithJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SATHAR28/DsaWithJava/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SATHAR28/DsaWithJava/tree/master/0283-move-zeroes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SATHAR28/DsaWithJava/tree/master/0007-reverse-integer) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/SATHAR28/DsaWithJava/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/SATHAR28/DsaWithJava/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SATHAR28/DsaWithJava/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/SATHAR28/DsaWithJava/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SATHAR28/DsaWithJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SATHAR28/DsaWithJava/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
