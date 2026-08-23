@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SATHAR28/DsaWithJava/tree/master/0007-reverse-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SATHAR28/DsaWithJava/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/SATHAR28/DsaWithJava/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SATHAR28/DsaWithJava/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/SATHAR28/DsaWithJava/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SATHAR28/DsaWithJava/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
