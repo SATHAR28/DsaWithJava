@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/SATHAR28/DsaWithJava/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/SATHAR28/DsaWithJava/tree/master/0832-flipping-an-image) |
+| [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SATHAR28/DsaWithJava/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SATHAR28/DsaWithJava/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -96,4 +99,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/SATHAR28/DsaWithJava/tree/master/1903-largest-odd-number-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
