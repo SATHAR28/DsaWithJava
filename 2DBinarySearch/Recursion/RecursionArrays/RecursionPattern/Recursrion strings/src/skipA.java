@@ -27,7 +27,9 @@ public class skipA {
 
         }
         return deleteA(str,neww,i+1);
+
     }
+
 
 
 
