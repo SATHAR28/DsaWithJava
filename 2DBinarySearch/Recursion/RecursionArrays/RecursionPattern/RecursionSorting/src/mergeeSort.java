@@ -1,11 +1,8 @@
 import java.util.Arrays;
-
-
-
 public class mergeeSort {
     public static void main(String[] args) {
 
-        int[] arr ={7,2,32,1,0};
+        int[] arr ={4,2,0,1,5};
         System.out.println(Arrays.toString(mergeSort(arr)));
 
     }
