@@ -10,6 +10,7 @@ public class MazeWithObstacles {
         MazeWithObstacles("",board,0,0);
 
     }
+    // you can think why while declarig "board" and in parameter "maze"  its just that java only support point by refrenece concept just go and study the basics
 
     static void MazeWithObstacles(String p , boolean[][]maze , int r , int c){
 
