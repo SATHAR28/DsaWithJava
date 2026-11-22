@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SATHAR28/DsaWithJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/SATHAR28/DsaWithJava/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SATHAR28/DsaWithJava/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/SATHAR28/DsaWithJava/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SATHAR28/DsaWithJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SATHAR28/DsaWithJava/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SATHAR28/DsaWithJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/SATHAR28/DsaWithJava/tree/master/1512-number-of-good-pairs) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SATHAR28/DsaWithJava/tree/master/0912-sort-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SATHAR28/DsaWithJava/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
